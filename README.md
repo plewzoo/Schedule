@@ -24,3 +24,4 @@ JPTV21
 - Оповещения об изменениях в расписании.
 
 
+![database](https://github.com/plewzoo/Schedule/assets/113170226/a4b2106d-7050-4090-97cb-567a3f1c9ed7)
