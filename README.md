@@ -25,10 +25,12 @@ JPTV21
 
 ## Выбранные технологии
 
--
--
--
--
+
+- Node.js
+- JavaScript
+- Sequelize
+- MySQL
+- dotenv
 
 
 
