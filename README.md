@@ -36,5 +36,6 @@ JPTV21
 
 ## Схема базы данных
 
-![image](https://github.com/plewzoo/Schedule/assets/113170226/b3ab59ab-2ef7-42ba-a78f-93b64e13d369)
+![image](https://github.com/plewzoo/Schedule/assets/113170226/e0d75906-b8af-4696-a4c7-18024ce58053)
+
 
