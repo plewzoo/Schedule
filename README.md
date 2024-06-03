@@ -34,6 +34,7 @@ JPTV21
 
 
 
-## Схема базы данных(Ручная, потом прикреплю нормальный вид.)
+## Схема базы данных
 
-![database](https://github.com/plewzoo/Schedule/assets/113170226/a4b2106d-7050-4090-97cb-567a3f1c9ed7)
+![image](https://github.com/plewzoo/Schedule/assets/113170226/b3ab59ab-2ef7-42ba-a78f-93b64e13d369)
+
